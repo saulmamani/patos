@@ -20,6 +20,11 @@
     - Los clientes no tienen en claro lo que necesitan, asi que añaden funcionalidad
     - En sistemas contables, generalmente cambian las formulas de una empresa a otra para los reportes de sus estados financieros
     - Generalmente simpre aumentan o cambian los usuarios y roles del sistema
-   
+ 
+- Using our new design, what would you do if you needed to
+  add rocket-powered flying to the SimUDuck app?
+    - Se crearia una nueva clase `SimUDuck` que implemente la interfaz `FlyBehavior`
+- Can you think of a class that might want to use the Quack behavior that isn’t a duck?
+    - un pato de juguete o algo que haga sonidos de patos
   
     
