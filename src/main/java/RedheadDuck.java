@@ -5,6 +5,6 @@ public class RedheadDuck extends Duck {
         System.out.println("ReadHead:\n" +
                 "\tNombre científico: Aythya americana\n" +
                 "\tFamilia: Anatidae");
-
+        behaivor();
     }
 }

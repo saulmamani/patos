@@ -9,5 +9,8 @@ public class PatosMain {
 
         Duck domestic = new DomesticDuck();
         domestic.display();
+
+        Duck robber = new RobberDucky();
+        robber.display();
     }
 }
