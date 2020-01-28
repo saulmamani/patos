@@ -12,5 +12,8 @@ public class PatosMain {
 
         Duck robber = new RobberDucky();
         robber.display();
+
+        Duck decoy = new DecoyDuck();
+        decoy.display();
     }
 }

@@ -5,6 +5,11 @@ public class RobberDucky extends Duck {
     }
 
     @Override
+    protected void fly() {
+        System.out.println("\tNo vuela, es de goma");
+    }
+
+    @Override
     protected void display() {
         super.display();
         System.out.println("de Goma: solo es de goma");
