@@ -2,6 +2,7 @@
 - Creado Clase abstracta Duck y dos clases de patos
 - Aniadido RobberDucky, y metodo quak sobre escrito
 - Aniadido DecoyDock, el metodo quak y fly reescrito
+- Se refactorizaron las clases y se crearon Iterfaces Flyable and Quackable (SRP, DIP)
 
 
 

@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede7693e-9db3-4232-ba9d-a31142aa7b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quackable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bitacora.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bitacora.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PatosMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatosMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoyDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DecoyDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DomesticDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DomesticDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RedheadDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RobberDucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RobberDucky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PatosMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PatosMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RedheadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RedheadDuck.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580176794271</updated>
-      <workItem from="1580176804685" duration="7134000" />
+      <workItem from="1580176804685" duration="8807000" />
     </task>
     <task id="LOCAL-00001" summary="added a new duck type">
       <created>1580186574304</created>
@@ -94,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580188333370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added DecoyDuck, and quack and fly method override">
+      <created>1580189138761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580189138761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,44 +117,49 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added a new duck type" />
     <MESSAGE value="added RobberDucky, and quack override" />
-    <option name="LAST_COMMIT_MESSAGE" value="added RobberDucky, and quack override" />
+    <MESSAGE value="added DecoyDuck, and quack and fly method override" />
+    <option name="LAST_COMMIT_MESSAGE" value="added DecoyDuck, and quack and fly method override" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="215" width="800" height="684" key="#Project_Structure" timestamp="1580183110691">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="589" y="215" width="800" height="684" key="#Project_Structure/68.27.1852.1053@68.27.1852.1053" timestamp="1580183110691" />
-    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580188462911">
+    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580189854003">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1580188462911" />
-    <state x="773" y="225" width="964" height="825" key="CommitChangelistDialog2" timestamp="1580188333275">
+    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1580189854003" />
+    <state x="773" y="225" width="964" height="825" key="CommitChangelistDialog2" timestamp="1580189138676">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="773" y="225" width="964" height="825" key="CommitChangelistDialog2/68.27.1852.1053@68.27.1852.1053" timestamp="1580188333275" />
-    <state width="1806" height="410" key="GridCell.Tab.0.bottom" timestamp="1580188650505">
+    <state x="773" y="225" width="964" height="825" key="CommitChangelistDialog2/68.27.1852.1053@68.27.1852.1053" timestamp="1580189138676" />
+    <state width="1806" height="410" key="GridCell.Tab.0.bottom" timestamp="1580190682280">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="410" key="GridCell.Tab.0.bottom/68.27.1852.1053@68.27.1852.1053" timestamp="1580188650505" />
-    <state width="1806" height="410" key="GridCell.Tab.0.center" timestamp="1580188650504">
+    <state width="1806" height="410" key="GridCell.Tab.0.bottom/68.27.1852.1053@68.27.1852.1053" timestamp="1580190682280" />
+    <state width="1806" height="410" key="GridCell.Tab.0.center" timestamp="1580190682279">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="410" key="GridCell.Tab.0.center/68.27.1852.1053@68.27.1852.1053" timestamp="1580188650504" />
-    <state width="1806" height="410" key="GridCell.Tab.0.left" timestamp="1580188650504">
+    <state width="1806" height="410" key="GridCell.Tab.0.center/68.27.1852.1053@68.27.1852.1053" timestamp="1580190682279" />
+    <state width="1806" height="410" key="GridCell.Tab.0.left" timestamp="1580190682279">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="410" key="GridCell.Tab.0.left/68.27.1852.1053@68.27.1852.1053" timestamp="1580188650504" />
-    <state width="1806" height="410" key="GridCell.Tab.0.right" timestamp="1580188650504">
+    <state width="1806" height="410" key="GridCell.Tab.0.left/68.27.1852.1053@68.27.1852.1053" timestamp="1580190682279" />
+    <state width="1806" height="410" key="GridCell.Tab.0.right" timestamp="1580190682280">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="410" key="GridCell.Tab.0.right/68.27.1852.1053@68.27.1852.1053" timestamp="1580188650504" />
+    <state width="1806" height="410" key="GridCell.Tab.0.right/68.27.1852.1053@68.27.1852.1053" timestamp="1580190682280" />
     <state x="483" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580177096454">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="483" y="188" width="1022" height="737" key="SettingsEditor/68.27.1852.1053@68.27.1852.1053" timestamp="1580177096454" />
-    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1580186591961">
+    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1580189145505">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/68.27.1852.1053@68.27.1852.1053" timestamp="1580186591961" />
+    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/68.27.1852.1053@68.27.1852.1053" timestamp="1580189145505" />
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1580190749362">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup/68.27.1852.1053@68.27.1852.1053" timestamp="1580190749362" />
   </component>
 </project>

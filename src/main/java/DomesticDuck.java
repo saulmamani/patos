@@ -7,6 +7,6 @@ public class DomesticDuck extends Duck {
                 "\tNúmero de huevos: Cairina moschata: 8 – 16\n" +
                 "\tAltura: Pato corredor indio: 50 – 76 cm\n" +
                 "\tLongitud: Cairina moschata: 76 cm");
-        behaivor();
+        swim();
     }
 }
