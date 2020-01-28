@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ede7693e-9db3-4232-ba9d-a31142aa7b9c" name="Default Changelist" comment="" />
+    <list default="true" id="ede7693e-9db3-4232-ba9d-a31142aa7b9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bitacora.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DomesticDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PatosMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatosMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RedheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PatosMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PatosMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RedheadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RedheadDuck.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X0IslHCTDUYXUDtVwccMyranq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../solid" />
@@ -66,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580176794271</updated>
-      <workItem from="1580176804685" duration="2846000" />
+      <workItem from="1580176804685" duration="4541000" />
     </task>
     <servers />
   </component>
@@ -78,26 +94,26 @@
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="589" y="215" width="800" height="684" key="#Project_Structure/68.27.1852.1053@68.27.1852.1053" timestamp="1580183110691" />
-    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580183331477">
+    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580186377180">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1580183331477" />
-    <state width="1806" height="267" key="GridCell.Tab.0.bottom" timestamp="1580183656956">
+    <state x="802" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1580186377180" />
+    <state width="1806" height="267" key="GridCell.Tab.0.bottom" timestamp="1580186529452">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="267" key="GridCell.Tab.0.bottom/68.27.1852.1053@68.27.1852.1053" timestamp="1580183656956" />
-    <state width="1806" height="267" key="GridCell.Tab.0.center" timestamp="1580183656956">
+    <state width="1806" height="267" key="GridCell.Tab.0.bottom/68.27.1852.1053@68.27.1852.1053" timestamp="1580186529452" />
+    <state width="1806" height="267" key="GridCell.Tab.0.center" timestamp="1580186529451">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="267" key="GridCell.Tab.0.center/68.27.1852.1053@68.27.1852.1053" timestamp="1580183656956" />
-    <state width="1806" height="267" key="GridCell.Tab.0.left" timestamp="1580183656955">
+    <state width="1806" height="267" key="GridCell.Tab.0.center/68.27.1852.1053@68.27.1852.1053" timestamp="1580186529451" />
+    <state width="1806" height="267" key="GridCell.Tab.0.left" timestamp="1580186529451">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="267" key="GridCell.Tab.0.left/68.27.1852.1053@68.27.1852.1053" timestamp="1580183656955" />
-    <state width="1806" height="267" key="GridCell.Tab.0.right" timestamp="1580183656956">
+    <state width="1806" height="267" key="GridCell.Tab.0.left/68.27.1852.1053@68.27.1852.1053" timestamp="1580186529451" />
+    <state width="1806" height="267" key="GridCell.Tab.0.right" timestamp="1580186529451">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state width="1806" height="267" key="GridCell.Tab.0.right/68.27.1852.1053@68.27.1852.1053" timestamp="1580183656956" />
+    <state width="1806" height="267" key="GridCell.Tab.0.right/68.27.1852.1053@68.27.1852.1053" timestamp="1580186529451" />
     <state x="483" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580177096454">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>

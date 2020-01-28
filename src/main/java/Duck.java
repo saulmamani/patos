@@ -7,7 +7,5 @@ public abstract class Duck {
     };
     protected void display(){
         System.out.print("\nCaracteristicas del pato ");
-//        this.quack();
-//        this.swim();
     };
 }
