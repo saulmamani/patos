@@ -2,6 +2,6 @@ package quack;
 
 public class Squeak implements QuackBehavior {
     public void quack() {
-        System.out.println("Pato de madera o goma que hace chirridos!");
+        System.out.println("\tPato de madera o goma que hace chirridos!");
     }
 }

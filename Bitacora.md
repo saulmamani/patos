@@ -3,7 +3,8 @@
 - Aniadido RobberDucky, y metodo quak sobre escrito
 - Aniadido DecoyDock, el metodo quak y fly reescrito
 - Se refactorizaron las clases y se crearon Iterfaces Flyable and Quackable (SRP, DIP)
-
+- Se han creado interfaces y clases contretas para el comportamiento de Fly y Quack
+- Se ha refactorizado las clases de los Patos y la clase padre Duck, con las nuevas interzaces
 
 
 #Respuestas a las preguntas del documentos
