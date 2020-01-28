@@ -1,4 +1,6 @@
-public class PatosMain {
+import fly.FlyRocketPowered;
+
+public class MiniDuckSimulator {
     public static void main(String[] args)
     {
         Duck mallar = new MallardDuck();
@@ -15,5 +17,12 @@ public class PatosMain {
 
         Duck decoy = new DecoyDuck();
         decoy.display();
+
+
+        System.out.println("\nModel Duck: ");
+        Duck model = new ModelDuck();
+        model.fly();
+        model.setFlyBehavior(new FlyRocketPowered());
+        model.fly();
     }
 }

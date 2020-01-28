@@ -5,6 +5,7 @@
 - Se refactorizaron las clases y se crearon Iterfaces Flyable and Quackable (SRP, DIP)
 - Se han creado interfaces y clases contretas para el comportamiento de Fly y Quack
 - Se ha refactorizado las clases de los Patos y la clase padre Duck, con las nuevas interzaces
+- Se ha creado el nuevo tipo de Pato ModeDuck y se han creado los metodos set en la clase Duck
 
 
 #Respuestas a las preguntas del documentos
