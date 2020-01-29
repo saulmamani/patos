@@ -29,4 +29,6 @@
 - Can you think of a class that might want to use the Quack behavior that isn’t a duck?
     - un pato de juguete o algo que haga sonidos de patos
   
-    
+#Articulo Linkedin
+
+https://www.linkedin.com/pulse/se-debe-priorizar-la-composici%25C3%25B3n-por-encima-de-herencia-saul-mamani
